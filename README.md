@@ -83,3 +83,6 @@ https://github.com/Bayori/zpolice/assets/32713344/9a8e39b6-255a-4358-8a2f-bc7411
 
 ![Screenshot_10](https://github.com/Bayori/zpolice/assets/32713344/f0fe0210-fb02-440c-9e0f-acb23eaa2f4e)
 ![Screenshot_11](https://github.com/Bayori/zpolice/assets/32713344/a1ba7972-cefe-4a70-a8da-2f80f40e309d)
+
+------------
+Данный плагин (zpolice) полностью заменит нынешний (simplepolice)
